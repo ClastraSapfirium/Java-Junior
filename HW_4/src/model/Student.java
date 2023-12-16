@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class Student {
 
-    private static final String[] names = new String[] { "Анатолий", "Глеб", "Клим", "Мартин", "Лазарь", "Владлен", "Клим", "Панкратий", "Рубен", "Герман" };
+    private static final String[] names = new String[] { "Виктор", "Степан", "Анна", "Катя", "Семён", "Валентин", "Нана", "Вика" };
     private static final Random random = new Random();
 
     private int id;
